@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=140&section=header&text=Welcome&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ TBA
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mikedza&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
 </p>
 
 ---
@@ -43,6 +43,14 @@ TBA
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mikedza&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎵 Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31placeholder&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
