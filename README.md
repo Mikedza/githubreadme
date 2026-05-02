@@ -47,15 +47,8 @@ TBA
 
 ---
 
-## 🎵 Currently Vibing To
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31placeholder&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect Me
 
 <p align="center">
 <a href="https://github.com/Mikedza"><img src="https://skillicons.dev/icons?i=github" height="45" /></a><a href="mailto:mikedzaki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a><img src="https://img.shields.io/badge/Discord-mikedza-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
