@@ -1,12 +1,6 @@
 
 <h1 align="center">Hey there 🫡, I'm Mike</h1>
 
-<p align="center">
-  <a href="https://github.com/Mikedza">
-    <img src="https://komarev.com/ghpvc/?username=Mikedza&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -33,8 +27,11 @@ TBA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikedza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikedza&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikedza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikedza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -45,7 +42,7 @@ TBA
 <a href="https://github.com/Mikedza" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-
+<br>
 <a href="mailto:mikedzaki@gmail.com" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
