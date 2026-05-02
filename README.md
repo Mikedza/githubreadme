@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mikedza&label=Profile+Views&color=5865F2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Mikedza?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/Mikedza?style=for-the-badge&logo=github" />
 </p>
 
