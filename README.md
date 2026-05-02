@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hey there 🫡, I'm Mike</h1>
 
 <p align="center">
@@ -56,4 +56,3 @@ TBA
 - kitakura
 
 ---
-```
